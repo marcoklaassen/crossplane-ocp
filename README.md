@@ -32,3 +32,4 @@ oc apply -f provider.yaml
 oc create -f bucket.yaml
 ```
 
+For more information have a look at this page: https://docs.crossplane.io/latest/getting-started/
